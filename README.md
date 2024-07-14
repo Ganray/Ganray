@@ -4,5 +4,5 @@ Medium article:
 - div.v: The code of frequency divider by 2.5 with Verilog.
 - div_tb.v: testbench of div.v.
 
-It's acceptable to use these files without commercial utilization.
-- Feel free to comments the coding and welcome ant interactions of digital IC design.
+It's acceptable to use these files without commercial utilization. \n
+Feel free to comments the coding and welcome ant interactions of digital IC design.
